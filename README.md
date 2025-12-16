@@ -70,5 +70,3 @@ python q6_test.py
 Machine Learning Zoomcamp – 2025
 
 ```
-
-
