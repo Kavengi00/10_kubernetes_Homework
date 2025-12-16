@@ -3,7 +3,7 @@
 
 This repository contains my solution for the Kubernetes homework from the Machine Learning Zoomcamp (2025).
 
-In this project, a lead scoring model from Homework 5 is deployed to a local Kubernetes cluster using 'kind' and kubectl.
+In this project, a lead scoring model from Homework 5 is deployed to a local Kubernetes cluster using kind and kubectl.
 
 ---
 
@@ -70,4 +70,5 @@ python q6_test.py
 Machine Learning Zoomcamp – 2025
 
 ```
+
 
